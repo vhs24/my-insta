@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/apigateway-service/apigateway-service.iml" filepath="$PROJECT_DIR$/apigateway-service/apigateway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auth-serivce/auth-serivce.iml" filepath="$PROJECT_DIR$/auth-serivce/auth-serivce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discovery-service/discovery-service.iml" filepath="$PROJECT_DIR$/discovery-service/discovery-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graph-service/graph-service.iml" filepath="$PROJECT_DIR$/graph-service/graph-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/insta-be.iml" filepath="$PROJECT_DIR$/.idea/insta-be.iml" />
+      <module fileurl="file://$PROJECT_DIR$/media/media-service/media-service.iml" filepath="$PROJECT_DIR$/media/media-service/media-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/post-service/post-service.iml" filepath="$PROJECT_DIR$/post-service/post-service.iml" />
+    </modules>
+  </component>
+</project>
